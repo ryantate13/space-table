@@ -6,9 +6,9 @@ import (
 	"os"
 
 	"github.com/ryantate13/space-table/args"
+	"github.com/ryantate13/space-table/internal/version"
 	"github.com/ryantate13/space-table/output"
 	"github.com/ryantate13/space-table/rows"
-	"github.com/ryantate13/space-table/version"
 )
 
 func main() {
